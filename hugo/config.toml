@@ -1,18 +1,18 @@
 baseURL = "https://arusank.com"
-title = "Arusank blog"
+title = "Bunny's blog"
 theme = "m10c"
-paginate = 5
+paginate = 10
 publishDir = "../docs/"
 
 [params]
-  author = "Arushi & Mayank"
-  description = "Our blog"
+  author = "Bunny & Bunny"
+  description = "Always high on happiness"
   [[params.social]]
     name = "github"
     url = "https://github.com/mkmayank"
   [[params.social]]
-    name = "twitter"
-    url = "https://twitter.com/unknown"
+    name = "instagram"
+    url = "https://www.instagram.com/foodiescritiques"
 
   # Brown theme
   #[params.style]

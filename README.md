@@ -1,7 +1,7 @@
 ### Setup
 ```bash
 $ git clone https://github.com/mkmayank/arusank.com
-$ cd arusnak.com
+$ cd arusank.com
 $ git submodule init
 ```
 
